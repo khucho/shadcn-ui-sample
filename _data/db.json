@@ -1,0 +1,76 @@
+{
+    "recipes":[
+        {
+            "id": "1",
+            "title": "Pizza",
+            "image": "pizza.jpeg",
+            "time": 40,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": false
+        },
+        {
+            "id": "2",
+            "title": "Mango Juice",
+            "image": "mango_juice.jpeg",
+            "time": 15,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": true
+        },
+        {
+            "id": "3",
+            "title": "Banana Juice",
+            "image": "banana_juice.jpeg",
+            "time": 20,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": true
+        },
+        {
+            "id": "4",
+            "title": "Apple Juice",
+            "image": "apple_juice.jpeg",
+            "time": 30,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": true
+        },
+        {
+            "id": "5",
+            "title": "Fried Chicken",
+            "image": "fried_chicken.jpeg",
+            "time": 35,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": false
+        },
+        {
+            "id": "6",
+            "title": "Orange Juice",
+            "image": "orange_juice.jpeg",
+            "time": 10,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": true
+        },
+        {
+            "id": "7",
+            "title": "Kimchi Soup",
+            "image": "kimchi_soup.jpeg",
+            "time": 25,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": false
+        },
+        {
+            "id": "8",
+            "title": "Kiwi Juice",
+            "image": "kiwi_juice.jpeg",
+            "time": 15,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": true
+        },
+        {
+            "id": "9",
+            "title": "Strawberry Cake",
+            "image": "strawberry_cake.jpeg",
+            "time": 30,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "vegan": true
+        }
+    ]
+}
